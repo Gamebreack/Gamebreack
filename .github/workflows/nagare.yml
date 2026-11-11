@@ -1,4 +1,4 @@
-# Redraws nagare/nagare.svg nightly. https://github.com/monex00/nagare
+# Redraws nagare/nagare.svg nightly at 00:17 UTC. https://github.com/monex00/nagare
 name: nagare
 on:
   schedule:
