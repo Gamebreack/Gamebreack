@@ -19,6 +19,7 @@ I spend my days teaching AI agents to check their own work. They're getting bett
 - **[agent-verification](https://github.com/Gamebreack/agent-verification)** — `verify`, a skill that builds a contract from the original task, has fresh reviewers check the change against it, and returns a verdict backed by evidence. It never fixes anything. Passing tests are evidence, not proof.
 - **[megaplan](https://github.com/Gamebreack/megaplan)** — a roadmap and backlog for agents, so the plan survives between sessions.
 - **[flow-map](https://github.com/Gamebreack/flow-map)** — how a repo, several repos, a folder or a set of documents flows from A to B, in three small Mermaid diagrams checked against the sources and kept current.
+- **[Chimera](https://github.com/Gamebreack/Chimera)** — when several agents build the same change, it keeps the soundest version, adopts only the ideas from the others that genuinely improve it, and hands the result to independent verification. It never forces a blend.
 
 ### Also
 
